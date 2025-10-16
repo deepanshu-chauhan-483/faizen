@@ -1,11 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Faizen - Digital Agency HTML Template.
-    Author: RRDevs
-    Support: https://support.rrdevs.net
-    Description: Digital Agency HTML Template.
-    Version: 1.0
-	Developer: Soukhin khan (https://github.com/Soukhinkhan)
+ ACLM Services
 
 -----------------------------------------------------------------------------------
 
@@ -152,13 +147,13 @@ h6 {
   --rr-common-black: #000000;
   --rr-common-placeholder: #4A5764;
   --rr-body-primary: #fff;
-  --rr-theme-primary: #0099ff;
+  --rr-theme-primary: #4A5764;
   --rr-heading-primary: #000000;
   --rr-text-body: rgba(5, 5, 19, 0.6);
   --rr-text-primary: #151515;
   --rr-shadow-primary: 0px 30px 60px 0px rgba(0, 15, 32, 0.1);
   --rr-background-hero-2-bg: #EEEEEE;
-  --rr-background-body-bg: #F6F0E9;
+  --rr-background-body-bg: #FFFFFF;
   --rr-border-primary: 1px solid rgba(5, 5, 19, 0.14);
   /**
   @font weight declaration
@@ -1173,7 +1168,7 @@ section {
 }
 
 .testimonial-bg-2 {
-  background-color: #EEE7DF;
+  background-color: #DFDFDF;
 }
 
 /*----------------------------------------*/
@@ -1349,7 +1344,7 @@ section {
 /*  offcanvas
 /*----------------------------------------*/
 .offcanvas__area {
-  background: #0E0A24 none repeat scroll 0 0;
+  background: #000000 none repeat scroll 0 0;
   position: fixed;
   right: 0;
   top: 0;
@@ -1391,7 +1386,7 @@ section {
   transform: translateX(0);
 }
 .offcanvas__logo a img {
-  width: 160px;
+  width: 100px;
 }
 @media (max-width: 575px) {
   .offcanvas__logo a img {
@@ -2158,7 +2153,7 @@ section {
   font-size: 100px !important;
   font-weight: 600;
   line-height: 100px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   margin-bottom: 0;
   font-family: var(--rr-ff-heading);
@@ -2224,7 +2219,7 @@ section {
   font-style: italic;
   font-weight: 400;
   line-height: 1;
-  color: #453030 !important;
+  color: #000000 !important;
   text-transform: uppercase;
   margin: 0 !important;
 }
@@ -2335,7 +2330,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   line-height: 27px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
 }
 @media (max-width: 575px) {
@@ -2350,7 +2345,7 @@ section {
   margin-left: 5px;
   border-radius: 30px;
   display: inline-block;
-  background-color: #453030;
+  background-color: #000000;
 }
 .breadcrumb-section.border-bottom {
   border-bottom: 1px solid rgba(21, 21, 21, 0.14);
@@ -2482,7 +2477,7 @@ section {
   font-size: 140px;
   font-weight: 600;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   margin-top: 14px;
   text-transform: uppercase;
 }
@@ -2522,7 +2517,7 @@ section {
   text-transform: uppercase;
 }
 .breadcrumb-section .breadcrumb__item a span {
-  color: #453030;
+  color: #000000;
 }
 .breadcrumb-section__shape__wrap {
   display: flex;
@@ -2622,7 +2617,7 @@ section {
   font-size: 44px;
   font-weight: 600;
   line-height: 66px;
-  color: #453030;
+  color: #000000;
   margin-bottom: 0;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
@@ -7315,10 +7310,10 @@ body .ui-tooltip {
   color: var(--rr-theme-primary);
 }
 .main-menu-3.main-menu-3 ul li:hover > a {
-  color: #978484;
+  color: #1a1a1a62;
 }
 .main-menu-3.main-menu-3 ul li:hover > a::after {
-  color: #978484;
+  color: #1a1a1a62;
 }
 
 .home__menu-item {
@@ -7717,7 +7712,7 @@ body .ui-tooltip {
   }
 }
 .blog10__filter .active {
-  color: #453030;
+  color: #000000;
 }
 .blog10__filter button {
   font-family: var(--rr-ff-heading);
@@ -8140,7 +8135,7 @@ body .ui-tooltip {
   font-size: 50px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   padding-bottom: 25px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -8175,7 +8170,7 @@ body .ui-tooltip {
   padding-bottom: 73px;
 }
 .blogpost11__content-code-post {
-  background: #453030;
+  background: #000000;
   border-radius: 10px;
   padding: 39px 40px 36px 40px;
   display: flex;
@@ -8265,7 +8260,7 @@ body .ui-tooltip {
   font-size: 50px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   padding-bottom: 22px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -8298,7 +8293,7 @@ body .ui-tooltip {
   font-size: 30px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   padding-bottom: 5px;
 }
 .blogpost11__content-item .content p {
@@ -8319,7 +8314,7 @@ body .ui-tooltip {
   font-size: 30px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   padding-bottom: 5px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -8415,7 +8410,7 @@ body .ui-tooltip {
   font-size: 20px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .blogpost11__tag-wrapper .postbox-tag span {
@@ -8479,7 +8474,7 @@ body .ui-tooltip {
   font-size: 30px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   margin-bottom: 20px;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -8661,7 +8656,7 @@ body .ui-tooltip {
   transform: rotate(45deg);
 }
 .blog-list__content-tag {
-  background: #453030;
+  background: #000000;
   border-radius: 6px;
   padding: 0px 14px;
   display: inline-block;
@@ -8716,7 +8711,7 @@ body .ui-tooltip {
   font-size: 40px;
   line-height: 52px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   padding-bottom: 96px;
   border-bottom: 1px solid rgba(69, 48, 48, 0.14);
   width: 100%;
@@ -8768,11 +8763,11 @@ body .ui-tooltip {
   }
 }
 .blog-list__title a {
-  background: linear-gradient(#453030 0%, #453030 98%);
+  background: linear-gradient(#000000 0%, #000000 98%);
   background-size: 0 2px;
   background-repeat: no-repeat;
   background-position: left 100%;
-  color: #453030;
+  color: #000000;
   transition: all 0.3s ease-in-out;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 992px), only screen and (min-width: 576px) and (max-width: 767px), (max-width:450px) {
@@ -8781,7 +8776,7 @@ body .ui-tooltip {
   }
 }
 .blog-list__title a:hover {
-  color: #453030;
+  color: #000000;
   background-size: 100% 2px;
 }
 
@@ -8944,7 +8939,7 @@ body .ui-tooltip {
   }
 }
 .footer__info a {
-  background: #D5C8B9;
+  background: #DFDFDF;
   border-radius: 6px;
   font-family: var(--rr-ff-heading);
   font-weight: var(--rr-fw-sbold);
@@ -8988,7 +8983,7 @@ body .ui-tooltip {
   margin-top: 25px;
 }
 .footer__subscribe .footer-form .rr-subscribe-form .form-control {
-  background: #D5C8B9;
+  background: #DFDFDF;
   font-family: var(--rr-ff-heading);
   font-weight: var(--rr-fw-regular);
   border-radius: 6px;
@@ -9091,7 +9086,7 @@ body .ui-tooltip {
   list-style: none;
 }
 .footer__copyright-menu ul li a {
-  background: #D5C8B9;
+  background: #DFDFDF;
   font-family: var(--rr-ff-heading);
   font-weight: var(--rr-fw-sbold);
   color: var(--rr-heading-primary);
@@ -9855,7 +9850,7 @@ body .ui-tooltip {
   font-size: 18px;
   font-weight: 600;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
 }
@@ -9939,7 +9934,7 @@ body .ui-tooltip {
   grid-row: 2;
 }
 .portfolio-section__item.item-4 .portfolio-section__content {
-  background: #453030;
+  background: #000000;
 }
 .portfolio-section__item.item-4 .portfolio-section__content h4 {
   color: var(--rr-common-white);
@@ -9961,7 +9956,7 @@ body .ui-tooltip {
   object-fit: cover;
 }
 .portfolio-section__content {
-  background: #EEE7DF;
+  background: #DFDFDF;
   padding: 30px 40px;
   padding-top: 40px;
 }
@@ -10044,7 +10039,7 @@ body .ui-tooltip {
   font-size: 100px;
   line-height: 80px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .services-section .section__title-wrapper .section__title-wrapper-title {
@@ -10065,7 +10060,7 @@ body .ui-tooltip {
   font-size: 90px;
   line-height: 120px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .services-section .section__title-wrapper .section__title-wrapper-title span {
@@ -10084,7 +10079,7 @@ body .ui-tooltip {
   }
 }
 .services-section .services__item {
-  background: #EEE7DF;
+  background: #DFDFDF;
   border-radius: 20px;
 }
 @media only screen and (min-width: 768px) and (max-width: 992px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
@@ -10109,7 +10104,7 @@ body .ui-tooltip {
   font-size: 34px;
   font-weight: 600;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   margin-top: 58px;
   margin-bottom: 21px;
@@ -10171,7 +10166,7 @@ body .ui-tooltip {
   margin-bottom: 0px;
 }
 .services-section .services__tab__wrapper .nav-link.active .services__tab__title {
-  color: #453030;
+  color: #000000;
   width: 680px;
   margin-left: -50px;
 }
@@ -10182,7 +10177,7 @@ body .ui-tooltip {
 }
 .services-section .services__tab__wrapper .nav-link.active .services__tab__title::before {
   width: 680px;
-  background-color: #453030;
+  background-color: #000000;
 }
 @media (max-width: 575px) {
   .services-section .services__tab__wrapper .nav-link.active .services__tab__title::before {
@@ -10207,7 +10202,7 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 1;
   text-transform: uppercase;
-  color: #B1A18F;
+  color: #1a1a1a80;
   position: relative;
   text-align: start;
   padding-bottom: 30px;
@@ -10296,7 +10291,7 @@ body .ui-tooltip {
   font-size: 30px;
   font-weight: 600;
   line-height: 42px;
-  color: #453030;
+  color: #000000;
   margin-bottom: 30px;
   text-transform: uppercase;
 }
@@ -10388,7 +10383,7 @@ body .ui-tooltip {
   font-size: 30px;
   font-weight: 600;
   line-height: 42px;
-  color: #453030;
+  color: #000000;
   margin-bottom: 28px;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
@@ -10533,7 +10528,7 @@ body .ui-tooltip {
   font-size: 60px;
   font-weight: 600;
   line-height: 74px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   margin-bottom: 40px;
   font-family: var(--rr-ff-heading);
@@ -10569,7 +10564,7 @@ body .ui-tooltip {
   font-size: 18px;
   font-weight: 600;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   font-family: var(--rr-ff-heading);
   padding: 24px 20px 22px 24px;
   text-transform: uppercase;
@@ -10586,7 +10581,7 @@ body .ui-tooltip {
   box-shadow: inherit;
 }
 .faq-section__content .accordion-button:not(.collapsed) {
-  color: #453030;
+  color: #000000;
   line-height: 1;
   padding: 17px 20px 12px 24px;
   text-transform: uppercase;
@@ -10621,7 +10616,7 @@ body .ui-tooltip {
 .faq-section__content .accordion-button:not(.collapsed)::after {
   background-image: inherit;
   content: "\f106";
-  background-color: #453030;
+  background-color: #000000;
   color: var(--rr-common-white);
 }
 .faq-section__content .accordion-body {
@@ -10661,7 +10656,7 @@ body .ui-tooltip {
   font-size: 140px;
   font-weight: 600;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   display: flex;
   align-items: center;
   column-gap: 20px;
@@ -10686,7 +10681,7 @@ body .ui-tooltip {
 .title-slider__title a {
   width: 90px;
   height: 90px;
-  background: #453030;
+  background: #000000;
   color: #fff;
   display: inline-flex;
   align-items: center;
@@ -10746,7 +10741,7 @@ body .ui-tooltip {
   font-size: 16px;
   font-weight: 500;
   line-height: 30px;
-  color: #453030;
+  color: #000000;
   margin-right: 4px;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
@@ -10776,7 +10771,7 @@ body .ui-tooltip {
   font-size: 50px;
   font-weight: 600;
   line-height: 75px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
 }
@@ -10898,7 +10893,7 @@ body .ui-tooltip {
   font-size: 22px;
   font-weight: 500;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   margin-right: 2px;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
@@ -11121,7 +11116,7 @@ body .ui-tooltip {
 }
 
 .service1__item {
-  background: #EEE7DF;
+  background: #DFDFDF;
   padding: 76px 70px 89px 54px;
   border-radius: 20px;
 }
@@ -11157,7 +11152,7 @@ body .ui-tooltip {
 .service1__item .divider {
   width: 270px;
   height: 4px;
-  background: #453030;
+  background: #000000;
   opacity: 0.14;
   border-radius: 20px;
   display: inline-block;
@@ -11175,7 +11170,7 @@ body .ui-tooltip {
   font-size: 14px;
   line-height: 21px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   background: rgba(69, 48, 48, 0.1);
   border-radius: 20px;
   padding: 7px 12px;
@@ -11196,15 +11191,15 @@ body .ui-tooltip {
   }
 }
 .service1-title a {
-  background: linear-gradient(#453030 0%, #453030 98%);
+  background: linear-gradient(#000000 0%, #000000 98%);
   background-size: 0 4px;
   background-repeat: no-repeat;
   background-position: left 100%;
-  color: #453030;
+  color: #000000;
   transition: all 0.3s ease-in-out;
 }
 .service1-title a:hover {
-  color: #453030;
+  color: #000000;
   background-size: 100% 5px;
 }
 
@@ -11263,7 +11258,7 @@ body .ui-tooltip {
   font-size: 24px;
   line-height: 34px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   display: block;
   width: 100%;
 }
@@ -11279,15 +11274,15 @@ body .ui-tooltip {
   }
 }
 .blog1__item-title a {
-  background: linear-gradient(#453030 0%, #453030 98%);
+  background: linear-gradient(#000000 0%, #000000 98%);
   background-size: 0 2px;
   background-repeat: no-repeat;
   background-position: left 100%;
-  color: #453030;
+  color: #000000;
   transition: all 0.3s ease-in-out;
 }
 .blog1__item-title a:hover {
-  color: #453030;
+  color: #000000;
   background-size: 100% 2px;
 }
 .blog1__item-meta ul li {
@@ -11379,7 +11374,7 @@ body .ui-tooltip {
   padding: 70px 60px;
   padding-top: 60px;
   position: relative;
-  background-color: #EEE7DF;
+  background-color: #DFDFDF;
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
   .project-section__item {
@@ -11476,7 +11471,7 @@ body .ui-tooltip {
   font-size: 54px;
   font-weight: var(--rr-fw-sbold);
   line-height: 60px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
 }
@@ -11650,7 +11645,7 @@ body .ui-tooltip {
   font-size: 200px;
   font-weight: var(--rr-fw-sbold);
   line-height: 1;
-  color: #DED2C5;
+  color: #1A1A1A70;
   margin-bottom: 0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -11674,7 +11669,7 @@ body .ui-tooltip {
   font-style: italic;
   font-weight: 400;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
 }
 @media (max-width: 575px) {
@@ -11771,7 +11766,7 @@ body .ui-tooltip {
   font-weight: 500;
   line-height: 27px;
   text-align: center;
-  color: #453030;
+  color: #000000;
   margin-bottom: 15px;
 }
 .experience-section .experience__wrapper .experience-thumb img {
@@ -11805,7 +11800,7 @@ body .ui-tooltip {
   display: flex;
   align-items: center;
   column-gap: 30px;
-  -webkit-text-stroke: 1px #DED2C5;
+  -webkit-text-stroke: 1px #1A1A1A70;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .heading-slide__title {
@@ -11835,7 +11830,7 @@ body .ui-tooltip {
   margin-bottom: 0;
 }
 .team-section__item {
-  background: #EEE7DF;
+  background: #DFDFDF;
   padding: 65px 40px;
   padding-bottom: 42px;
   position: relative;
@@ -11904,7 +11899,7 @@ body .ui-tooltip {
   font-size: 20px;
   font-weight: 600;
   line-height: 1;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   margin-bottom: 14px;
   margin-top: 62px;
@@ -11937,7 +11932,7 @@ body .ui-tooltip {
   color: #151515;
   font-size: 19px;
   border-radius: 10px;
-  outline: 20px solid #F6F0E9;
+  outline: 20px solid #FFFFFF;
 }
 .team-section__social a:hover {
   color: #fff;
@@ -12050,7 +12045,7 @@ body .ui-tooltip {
   font-size: 20px;
   font-weight: 600;
   line-height: 60px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   font-family: var(--rr-ff-heading);
   transition: 0.3s all ease-in-out;
@@ -12119,7 +12114,7 @@ body .ui-tooltip {
   align-items: center;
   justify-content: center;
   font-size: 17px;
-  color: #453030;
+  color: #000000;
   border-radius: 6px;
 }
 .award-section__link > span i {
@@ -12140,7 +12135,7 @@ body .ui-tooltip {
 .award-section__item:hover {
   padding-left: 40px;
   padding-right: 30px;
-  background-color: #EEE7DF;
+  background-color: #DFDFDF;
 }
 @media (max-width: 575px) {
   .award-section__item:hover {
@@ -12150,7 +12145,7 @@ body .ui-tooltip {
 }
 .award-section__item:hover .award-section__link span {
   color: #fff;
-  background-color: #453030;
+  background-color: #000000;
 }
 .award-section__item:hover .award-section__link span i {
   transform: rotate(0);
@@ -12432,7 +12427,7 @@ body .ui-tooltip {
   font-weight: 600;
   line-height: 1;
   letter-spacing: -0.1em;
-  color: #EEEEEE;
+  color: #1A1A1A70;
   font-family: var(--rr-ff-heading);
 }
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
@@ -12458,7 +12453,7 @@ body .ui-tooltip {
   }
 }
 .products-section .counter-box .number-2 {
-  color: #DED2C5;
+  color: #1A1A1A70;
 }
 
 .fade-in-up {
@@ -12490,7 +12485,7 @@ body .ui-tooltip {
   overflow: hidden;
 }
 .work-Process__wrapper-2 {
-  background-color: #EEE7DF;
+  background-color: #DFDFDF;
 }
 .work-Process__item {
   display: inline-flex;
@@ -13277,7 +13272,7 @@ body .ui-tooltip {
   font-weight: var(--rr-ff-medium);
   font-size: 15px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   position: relative;
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
@@ -13295,7 +13290,7 @@ body .ui-tooltip {
   content: "";
   width: 6px;
   height: 6px;
-  background: #453030;
+  background: #000000;
   border-radius: 1px;
   display: block;
   position: absolute;
@@ -13370,7 +13365,7 @@ body .ui-tooltip {
   font-size: 30px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .our-team__item-content .our-team-title {
@@ -13488,7 +13483,7 @@ body .ui-tooltip {
   font-size: 30px;
   line-height: 42px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   padding-bottom: 16px;
 }
 @media (max-width:320px) {
@@ -13562,7 +13557,7 @@ body .ui-tooltip {
   font-weight: var(--rr-fw-medium);
   font-size: 18px;
   line-height: 30px;
-  color: #453030;
+  color: #000000;
 }
 @media (max-width:320px) {
   .career-details__sidebar .apply-form ul li {
@@ -13638,7 +13633,7 @@ body .ui-tooltip {
   font-weight: 500;
   font-size: 120px;
   line-height: 1;
-  background: linear-gradient(180deg, #DFD3C6 0%, #F6F0E9 99.5%);
+  background: linear-gradient(180deg, #DFD3C6 0%, #FFFFFF 99.5%);
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
@@ -13669,7 +13664,7 @@ body .ui-tooltip {
   font-size: 34px;
   font-weight: 600;
   line-height: 42px;
-  color: #453030;
+  color: #000000;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
@@ -13802,7 +13797,7 @@ body .ui-tooltip {
   }
 }
 .testimonial-4__wrapper {
-  background: #EEE7DF;
+  background: #DFDFDF;
   gap: 60px;
   padding: 30px 50px 30px 30px;
   display: flex;
@@ -13954,7 +13949,7 @@ body .ui-tooltip {
   }
 }
 .testimonial2__item.item-bg-2 {
-  background-color: #F6F0E9 !important;
+  background-color: #FFFFFF;
 }
 .testimonial2__author-content {
   display: flex;
@@ -14084,7 +14079,7 @@ body .ui-tooltip {
   font-size: 60px;
   line-height: 74px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .brandshiping__title {
@@ -14199,7 +14194,7 @@ body .ui-tooltip {
   font-size: 16px;
   line-height: 24px;
   text-transform: uppercase;
-  color: #453030;
+  color: #000000;
   position: relative;
   padding-left: 55px;
 }
@@ -14344,10 +14339,10 @@ body .ui-tooltip {
   margin-bottom: 40px;
 }
 .project-section-3 .section__title-wrapper-title {
-  color: #453030;
+  color: #000000;
 }
 .project-section-3 .project-section-2__item {
-  background: #EEE7DF;
+  background: #DFDFDF;
 }
 .project-section-3 .project-section-2__title {
   line-height: 54px;
@@ -14435,7 +14430,7 @@ body .ui-tooltip {
   font-family: var(--rr-ff-heading);
 }
 .project-client-details__list__item li span {
-  color: #453030;
+  color: #000000;
 }
 .project-client-details__thumb {
   margin: 0 160px;
