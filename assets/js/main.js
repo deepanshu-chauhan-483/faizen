@@ -5,12 +5,6 @@
 
     /*-----------------------------------------------------------------------------------
 
-        Template Name: Faizen - Digital Agency HTML Template.
-        Author: RRDevs
-        Support: https://support.rrdevs.net
-        Description: Digital Agency HTML Template.
-        Version: 1.0
-        Developer: Soukhin khan (https://github.com/Soukhinkhan)
 
     -----------------------------------------------------------------------------------
 

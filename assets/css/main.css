@@ -12361,7 +12361,7 @@ body .ui-tooltip {
   line-height: 1;
 }
 .the-brand__bg {
-  background: #DFDFDF;
+  background: #1a1a1a40;
   width: 100%;
   height: 260px;
   display: inline-block;
