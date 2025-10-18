@@ -154,7 +154,7 @@
 .service1 {
     &__item {
         background: #EEE7DF;
-        padding: 76px 70px 89px 54px;
+        padding: 76px 50px 89px 50px;
         border-radius: 20px;
         @media #{$lg} {
             padding: 76px 30px 89px 30px;
@@ -180,7 +180,7 @@
         & .divider {
             width: 270px;
             height: 4px;
-            background: #453030;
+            background: #1a1a1a;
             opacity: 0.14;
             border-radius: 20px;
             display: inline-block;
@@ -1397,7 +1397,6 @@
                     content: "";
                     width: 0;
                     height: 2px;
-                    background-color: #000;
                     position: absolute;
                     top: 0px;
                     left: 0;
@@ -1435,7 +1434,6 @@
                         content: "";
                         width: 0;
                         height: 2px;
-                        background-color: #000;
                         position: absolute;
                         top: 0px;
                         left: 0;
@@ -1445,16 +1443,16 @@
                     }
                     &.swiper-slide-active{
                         .brand-section__logo{
-                            background: var(--rr-common-black);
+                            background: #fff;
                             svg{
                                 path{
-                                    // stroke: #fff;
+                                    stroke: #fff;
                                     fill: #fff;
                                 }
                                 g{
-                                    // opacity: 1;
+                                    opacity: 1;
                                     path{
-                                        // stroke: #fff;
+                                        stroke: #fff;
                                         fill: #fff;
                                     }
                                 }
